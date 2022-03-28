@@ -6,5 +6,8 @@ const reverseString = function (str) {
 		newArr.push(char);
 	}
 
+	let newStr = newArr.join("");
+	return newStr;
+};
 // Do not edit below this line
 module.exports = reverseString;
