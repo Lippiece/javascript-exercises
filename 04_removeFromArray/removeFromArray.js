@@ -1,7 +1,4 @@
-const removeFromArray = function (array, target) {
-	for (let i of array) {
-		if (i === target) {
-			array.splice(target-1, 1);
+const removeFromArray = function (array, ...args) {
 		}
 	}
 	return array;
