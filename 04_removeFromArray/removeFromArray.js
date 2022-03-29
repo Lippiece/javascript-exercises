@@ -5,6 +5,7 @@ const removeFromArray = function (array, target) {
 			workingArr = array.splice(target-1, 1);
 		}
 	}
+	return array;
 };
 
 // Do not edit below this line
