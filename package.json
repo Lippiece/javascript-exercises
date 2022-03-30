@@ -30,5 +30,8 @@
     "testPathIgnorePatterns": [
       "generator-exercise/"
     ]
+  },
+  "dependencies": {
+    "uuid": "^7.0.3"
   }
 }
