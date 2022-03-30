@@ -17,6 +17,9 @@ const sumAll = function (num1, num2) {
 			start = num2;
 			end = num1;
 		}
+		for (let i = start; i <= end; i++) {
+			output += i;
+		}
 
 // Do not edit below this line
 module.exports = sumAll;
