@@ -4,12 +4,17 @@ Complete the following REQUIRED checkboxes:
 
 <!-- While editing this template, replace the whitespace between the square brackets with an 'x', e.g. [x] -->
 
-- [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
-- [ ] The title of this PR follows the `location of change: brief description of change` format, e.g. `01_helloWorld: Update test cases`
+- [ ] I have thoroughly read and understand
+      [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
+- [ ] The title of this PR follows the
+      `location of change: brief description of change` format, e.g.
+      `01_helloWorld: Update test cases`
 
-Complete the following checkboxes ONLY IF they are applicable to your PR. You can complete them later if they are not currently applicable:
+Complete the following checkboxes ONLY IF they are applicable to your PR. You
+can complete them later if they are not currently applicable:
 
-- [ ] I have ensured any exercise files included in this PR have passed all of their tests
+- [ ] I have ensured any exercise files included in this PR have passed all of
+      their tests
 
 <hr>
 

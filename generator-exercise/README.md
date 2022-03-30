@@ -4,7 +4,9 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-exercise using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-exercise using
+[npm](https://www.npmjs.com/) (we assume you have pre-installed
+[node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
@@ -30,7 +32,9 @@ MIT © [Cody Loyd](codyloyd.com)
 
 [npm-image]: https://badge.fury.io/js/generator-exercise.svg
 [npm-url]: https://npmjs.org/package/generator-exercise
-[travis-image]: https://travis-ci.org/codyloyd/generator-exercise.svg?branch=master
+[travis-image]:
+	https://travis-ci.org/codyloyd/generator-exercise.svg?branch=master
 [travis-url]: https://travis-ci.org/codyloyd/generator-exercise
-[daviddm-image]: https://david-dm.org/codyloyd/generator-exercise.svg?theme=shields.io
+[daviddm-image]:
+	https://david-dm.org/codyloyd/generator-exercise.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/codyloyd/generator-exercise

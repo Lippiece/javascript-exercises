@@ -10,8 +10,11 @@ assignees: ""
 
 Complete the following REQUIRED checkboxes:
 
-- [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
-- [ ] The title of this issue follows the `location for request: brief description of request` format, e.g. `Exercises: Add exercise on XYZ`
+- [ ] I have thoroughly read and understand
+      [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
+- [ ] The title of this issue follows the
+      `location for request: brief description of request` format, e.g.
+      `Exercises: Add exercise on XYZ`
 
 The following checkbox is OPTIONAL:
 

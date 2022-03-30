@@ -1,6 +1,7 @@
 ---
 name: Bug Report
-about: Create a report to help us improve something that is not working correctly
+about:
+  Create a report to help us improve something that is not working correctly
 title: "Bug - :"
 labels: "Status: Needs Review, Type: Bug"
 assignees: ""
@@ -10,8 +11,11 @@ assignees: ""
 
 Complete the following REQUIRED checkboxes:
 
-- [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
-- [ ] The title of this issue follows the `Bug - location of bug: brief description of bug` format, e.g. `Bug - Exercises: File type incorrect for all test files`
+- [ ] I have thoroughly read and understand
+      [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
+- [ ] The title of this issue follows the
+      `Bug - location of bug: brief description of bug` format, e.g.
+      `Bug - Exercises: File type incorrect for all test files`
 
 The following checkbox is OPTIONAL:
 
