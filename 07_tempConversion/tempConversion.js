@@ -1,6 +1,9 @@
-const ftoc = function () {};
+const ftoc = function (input) {
+};
 
-const ctof = function () {};
+};
+const ctof = function (input) {
+};
 
 // Do not edit below this line
 module.exports = {
