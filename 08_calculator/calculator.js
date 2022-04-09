@@ -25,6 +25,11 @@ const power = function (input1, input2) {
 const factorial = function (input) {
 	if (input === 0) {
 		return 1;
+	}	else {
+		let array = [];
+		for (let i = 1; i <= input; i++) {
+			array.push(i);
+		}
 	}
 };
 
