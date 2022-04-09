@@ -22,7 +22,11 @@ const power = function (input1, input2) {
 	return Math.pow(input1, input2);
 };
 
-const factorial = function () {};
+const factorial = function (input) {
+	if (input === 0) {
+		return 1;
+	}
+};
 
 // Do not edit below this line
 module.exports = {
