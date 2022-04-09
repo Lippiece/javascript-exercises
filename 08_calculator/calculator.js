@@ -30,6 +30,9 @@ const factorial = function (input) {
 		for (let i = 1; i <= input; i++) {
 			array.push(i);
 		}
+		return array.reduce((prev, next) => {
+			return prev * next;
+		}, 1);
 	}
 };
 
