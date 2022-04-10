@@ -9,7 +9,7 @@ usually without considering punctuation or word breaks:
 
 - A car, a man, a maraca.
 - Rats live on no evil star.
-- Lid off a daffodil.
+- Lidoffa d affodil.
 - Animal loots foliated detail of stool lamina.
 - A nut for a jar of tuna.
 

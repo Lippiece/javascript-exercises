@@ -1,3 +1,6 @@
+/*global describe, test,expect*/
+/*eslint no-undef: "error"*/
+
 const palindromes = require("./palindromes");
 
 describe("palindromes", () => {
@@ -15,10 +18,10 @@ describe("palindromes", () => {
 	});
 	test.skip("works with multiple words", () => {
 		expect(palindromes("Animal loots foliated detail of stool lamina.")).toBe(
-			true
+			true,
 		);
 	});
-	test.skip("doesn't just always return true", () => {
+	test("doesn't just always return true", () => {
 		expect(palindromes("ZZZZ car, a man, a maracaz.")).toBe(false);
 	});
 });
