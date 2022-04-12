@@ -1,18 +1,18 @@
-# Exercise 11 - Get the Titles!
+# Exercise 11 - Get the Titles
 
 You are given an array of objects that represent books with an author and a
 title that looks like this:
 
 ```javascript
 const books = [
-	{
-		title: "Book",
-		author: "Name",
-	},
-	{
-		title: "Book2",
-		author: "Name2",
-	},
+ {
+  title: "Book",
+  author: "Name",
+ },
+ {
+  title: "Book2",
+  author: "Name2",
+ },
 ];
 ```
 
