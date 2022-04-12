@@ -6,6 +6,7 @@ const fibonacci = function (input) {
 	for (let i = 2; i < parseInt(input); i++) {
 		seq.push(seq[seq.length - 1] + seq[seq.length - 2]);
 	}
+	return seq[seq.length - 1];
 };
 
 // Do not edit below this line
