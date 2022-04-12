@@ -12,7 +12,14 @@ const findTheOldest = function (input) {
 			}
 			let ageA = a.yearOfDeath - a.yearOfBirth;
 			let ageB = b.yearOfDeath - b.yearOfBirth;
+			return ageA > ageB ? a : b;
+		},
+		{
+			yearOfBirth: year,
+		},
 	);
+
+	return oldest;
 };
 
 // Do not edit below this line
