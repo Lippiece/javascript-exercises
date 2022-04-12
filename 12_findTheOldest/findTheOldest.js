@@ -10,6 +10,8 @@ const findTheOldest = function (input) {
 			if (b.yearOfDeath === undefined) {
 				b.yearOfDeath = year;
 			}
+			let ageA = a.yearOfDeath - a.yearOfBirth;
+			let ageB = b.yearOfDeath - b.yearOfBirth;
 	);
 };
 
